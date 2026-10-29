@@ -1,3 +1,6 @@
-#site-header{position:relative !important;}
+#site-header {
+    position: relative !important;
+    margin-top: 50px !important;
+}
 #site-footer{position:relative !important;}
 #en-mainheader-header-arp1-overlay{position:relative !important;}
